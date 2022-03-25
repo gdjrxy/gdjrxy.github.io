@@ -1,3 +1,3 @@
 function address() {
-    return "http://23.225.191.45/"
+    return "http://www.gdjrxy.top/"
 }
